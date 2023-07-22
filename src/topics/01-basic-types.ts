@@ -1,0 +1,6 @@
+const name = "xd"
+
+
+
+
+export {}
